@@ -1,0 +1,10 @@
+{
+  "music_disc.cliffside_hinson": {
+    "sounds": [
+      {
+        "name": "extra_discs:records/cliffside_hinson",
+        "stream": true
+      }
+    ]
+  }
+} 

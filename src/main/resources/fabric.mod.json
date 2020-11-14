@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "extra-discs",
+  "version": "${version}",
+  "name": "Extra Disks",
+  "description": "A mod that adds more disks to the game",
+  "authors": [
+    "Cody"
+  ],
+  "contact": {
+    "website": "https://codyq.me/",
+    "repo": "https://github.com/CatDevz/"
+  },
+  "license": "MIT",
+  "icon": "assets/extra-discs/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "me.codyq.extradiscs.ExtraDiscs"
+    ]
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.10.6+build.214",
+    "fabric": "*",
+    "minecraft": "1.16.4"
+  }
+}
