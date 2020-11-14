@@ -1,6 +1,11 @@
 {
   "replace": false,
   "values": [
-    "extra_discs:music_disc_cliffside_hinson"
+    "extra_discs:music_disc_0x10c",
+    "extra_discs:music_disc_cliffside_hinson",
+    "extra_discs:music_disc_i_jate_my_hob",
+    "extra_discs:music_disc_peanuts",
+    "extra_discs:music_disc_repetition",
+    "extra_discs:music_disc_sometimes_i_make_video_game_music"
   ]
 }

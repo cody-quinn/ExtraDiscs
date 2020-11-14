@@ -1,8 +1,48 @@
 {
+  "music_disc.0x10c": {
+    "sounds": [
+      {
+        "name": "extra_discs:records/0x10c",
+        "stream": true
+      }
+    ]
+  },
   "music_disc.cliffside_hinson": {
     "sounds": [
       {
         "name": "extra_discs:records/cliffside_hinson",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.i_jate_my_hob": {
+    "sounds": [
+      {
+        "name": "extra_discs:records/i_jate_my_hob",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.peanuts": {
+    "sounds": [
+      {
+        "name": "extra_discs:records/peanuts",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.repetition": {
+    "sounds": [
+      {
+        "name": "extra_discs:records/repetition",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.sometimes_i_make_video_game_music": {
+    "sounds": [
+      {
+        "name": "extra_discs:records/sometimes_i_make_video_game_music",
         "stream": true
       }
     ]

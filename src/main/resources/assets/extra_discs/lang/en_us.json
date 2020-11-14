@@ -1,6 +1,19 @@
 {
-  "itemGroup.extra_discs.extra_discs": "Music Discs",
+  "item.extra_discs.music_disc_0x10c": "Music Disc",
+  "item.extra_discs.music_disc_0x10c.desc": "C418 - 0x10c",
 
   "item.extra_discs.music_disc_cliffside_hinson": "Music Disc",
-  "item.extra_discs.music_disc_cliffside_hinson.desc": "C418 - cliffside hinson"
+  "item.extra_discs.music_disc_cliffside_hinson.desc": "C418 - cliffside hinson",
+
+  "item.extra_discs.music_disc_i_jate_my_hob": "Music Disc",
+  "item.extra_discs.music_disc_i_jate_my_hob.desc": "C418 - I jate my hob",
+
+  "item.extra_discs.music_disc_peanuts": "Music Disc",
+  "item.extra_discs.music_disc_peanuts.desc": "C418 - peanuts",
+
+  "item.extra_discs.music_disc_repetition": "Music Disc",
+  "item.extra_discs.music_disc_repetition.desc": "C418 - repetition",
+
+  "item.extra_discs.music_disc_sometimes_i_make_video_game_music": "Music Disc",
+  "item.extra_discs.music_disc_sometimes_i_make_video_game_music.desc": "C418 - sometimes I make video game music"
 }
